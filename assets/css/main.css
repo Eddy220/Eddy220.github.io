@@ -1,6 +1,18 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
+.skills {
+	list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    height: 250px;
+}
+
+.skills li{
+    font-size: 50px;
+}
+
 /*
 	Strata by HTML5 UP
 	html5up.net | @ajlkn
